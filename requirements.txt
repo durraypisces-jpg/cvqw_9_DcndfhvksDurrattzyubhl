@@ -1,0 +1,32 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Groq AI model
+langchain-groq
+
+# HuggingFace embeddings
+langchain-huggingface
+
+# Chroma vectorstore
+langchain-chroma
+
+# Text splitter
+langchain-text-splitters
+
+# Classic RAG chains (your script uses langchain_classic)
+langchain-classic
+
+# Document loaders
+pypdf
+python-docx
+python-pptx
+pandas
+openpyxl
+
+# UI
+gradio
+
+# Optional: JSON parsing if needed
+jsonpath-ng
